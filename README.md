@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm Frost, web2 and web3 developers
 
 
-##👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 - 🏆 Finalist of "Ethglobal Superhack 2023"
 - 💻 Years of experience in web2 server-side development (mainly using Java) and less than a year of experience in web3 development (Solidity and Cairo).
 
