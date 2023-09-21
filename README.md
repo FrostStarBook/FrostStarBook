@@ -15,6 +15,9 @@
 <a href="https://github.com/FrostStarBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=great-gatsby&username=FrostStarBook" />
 </a>
+
+---
+
 <a href="https://github.com/FrostStarBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=great-gatsby&username=FrostStarBook" />
 </a>
