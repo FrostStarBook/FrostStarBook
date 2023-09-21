@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**FrostStarBook/FrostStarBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### I'm Frost, web2 and web3 developers
 
 
@@ -26,8 +12,9 @@ Here are some ideas to get you started:
 
 
 
-
-[![My GitHub data](https://github-readme-stats.vercel.app/api?show_icons=true&theme=dark&username=FrostStarBook)]()  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostStarBook)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/FrostStarBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=great-gatsby&username=FrostStarBook" />
+</a>
+<a href="https://github.com/FrostStarBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=great-gatsby&username=FrostStarBook" />
+</a>
