@@ -2,9 +2,7 @@
 <h2> Hi, I'm Frost! web2 and web3 developers<img src="./wutaiowu.gif" width="50"></h2>
 
 
-<img src="./2.gif" width="230" style="position: absolute; top: 10px;right : 30px">
-
-<img src="./3.gif" width="230" style="position: absolute; top: 60px;right : 20px" >
+<img align='right' src="./3.gif" width="230" >
 
 ## 👨🏻‍💻 About Me
 
