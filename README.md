@@ -4,10 +4,21 @@
 
 <img align='right' src="./3.gif" width="230" >
 
-## 👨🏻‍💻 About Me
+### Award-Winning Projects
 
-- 🏆 Finalist of "Ethglobal Superhack 2023"
-- 💻 Years of experience in web2 server-side development (mainly using Java) and less than a year of experience in web3 development (Solidity and Cairo).
+**Vigilant**
+- **Award:** Winner of NFT.Storage — Best Use
+- **Event:** EthGlobal Autonomous Worlds
+
+**GlobeGrafter**
+- **Awards:** 
+  - 🏊 Mode — Prize Pool
+  - 🏆 Superhack 2023 Finalist
+- **Event:** EthGlobal Superhack
+
+**Utopia**
+- **Award:** 2nd Place
+- **Event:** #AutonomousAgent in @redstonexyz @DownstreamGame hackathon
 
 
 ![](./woqishanyi.gif)
